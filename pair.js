@@ -164,7 +164,7 @@ router.get("/", async (req, res) => {
 
 
 
-            const sid = `*whaite queen [The powerful WA BOT]*\n\n👉 ${pink_queen_md-string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*අවශ්‍ය වුවහොත් මා සම්බන්ධ කර ගන්න 🥰*\n\n* https://wa.me/94783314361*\n\n*You can join my whatsapp channel*\n\n*https://whatsapp.com/channel/0029Vb0rCUr72WU3uq0yMg42*`;
+            const sid = `*pink queen [The powerful WA BOT]*\n\n👉 ${pink_queen_md-string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*අවශ්‍ය වුවහොත් මා සම්බන්ධ කර ගන්න 🥰*\n\n* https://wa.me/94783314361*\n\n*You can join my whatsapp channel*\n\n*https://whatsapp.com/channel/0029Vb0rCUr72WU3uq0yMg42*`;
 
             const mg = `🛑 *Do not share this code to anyone* /n ☣️☣️☣️☣️☣️🇱🇰🇱🇰☣️☣️🛑`;
 
